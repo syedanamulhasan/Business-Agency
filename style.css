@@ -426,4 +426,7 @@ html{
     font-weight: 300;
     color: #fff;
 }
+.pricing-card-list i{
+    font-size: 1.8rem;
+}
 /* end of section 3 */
